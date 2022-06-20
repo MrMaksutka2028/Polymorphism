@@ -127,11 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BackPack.cpp" />
     <ClCompile Include="Harvest.cpp" />
     <ClCompile Include="Plant.cpp" />
     <ClCompile Include="Polymorphism.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BackPack.hpp" />
     <ClInclude Include="Berry.hpp" />
     <ClInclude Include="Bush.hpp" />
     <ClInclude Include="Fruit.hpp" />
